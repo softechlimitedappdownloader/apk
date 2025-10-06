@@ -76726,34 +76726,34 @@ A.YW.prototype={
 $0(){A.aov($.bG(),"/login",t.z)},
 $S:0}
 A.YU.prototype={
-$0(){return this.a.jj("assets/Agriculture/Latest Apk/Agriculture.apk")},
+$0(){return this.a.jj("assets/assets/Agriculture/Latest Apk/Agriculture.apk")},
 $S:0}
 A.YV.prototype={
-$0(){return this.a.jj("assets/Agriculture/Old Apk/Agriculture.apk")},
+$0(){return this.a.jj("assets/assets/Agriculture/Old Apk/Agriculture.apk")},
 $S:0}
 A.YX.prototype={
-$0(){return this.a.jj("assets/Tree Plantation/Bondhu-1/Online Apk/Latest Apk/TP Bondhu-1(Online).apk")},
+$0(){return this.a.jj("assets/assets/Tree Plantation/Bondhu-1/Online Apk/Latest Apk/TP Bondhu-1(Online).apk")},
 $S:0}
 A.YY.prototype={
-$0(){return this.a.jj("assets/Tree Plantation/Bondhu-1/Online Apk/Old Apk/TP Bondhu-1(Online).apk")},
+$0(){return this.a.jj("assets/assets/Tree Plantation/Bondhu-1/Online Apk/Old Apk/TP Bondhu-1(Online).apk")},
 $S:0}
 A.YZ.prototype={
-$0(){return this.a.jj("assets/Tree Plantation/Bondhu-1/Offline Apk/Latest Apk/TP Bondhu-1(offline).apk")},
+$0(){return this.a.jj("assets/assets/Tree Plantation/Bondhu-1/Offline Apk/Latest Apk/TP Bondhu-1(offline).apk")},
 $S:0}
 A.Z_.prototype={
-$0(){return this.a.jj("assets/Tree Plantation/Bondhu-1/Offline Apk/Old Apk/TP Bondhu-1(offline).apk")},
+$0(){return this.a.jj("assets/assets/Tree Plantation/Bondhu-1/Offline Apk/Old Apk/TP Bondhu-1(offline).apk")},
 $S:0}
 A.Z0.prototype={
-$0(){return this.a.jj("assets/Tree Plantation/Bondhu-2/Online Apk/Latest Apk/TP Bondhu-2(Online).apk")},
+$0(){return this.a.jj("assets/assets/Tree Plantation/Bondhu-2/Online Apk/Latest Apk/TP Bondhu-2(Online).apk")},
 $S:0}
 A.Z1.prototype={
-$0(){return this.a.jj("assets/Tree Plantation/Bondhu-2/Online Apk/Old Apk/TP Bondhu-2(Online).apk")},
+$0(){return this.a.jj("assets/assets/Tree Plantation/Bondhu-2/Online Apk/Old Apk/TP Bondhu-2(Online).apk")},
 $S:0}
 A.Z2.prototype={
-$0(){return this.a.jj("assets/Tree Plantation/Bondhu-2/Offline Apk/Latest Apk/TP Bondhu-2(offline).apk")},
+$0(){return this.a.jj("assets/assets/Tree Plantation/Bondhu-2/Offline Apk/Latest Apk/TP Bondhu-2(offline).apk")},
 $S:0}
 A.Z3.prototype={
-$0(){return this.a.jj("assets/Tree Plantation/Bondhu-2/Offline Apk/Old Apk/TP Bondhu-2(offline).apk")},
+$0(){return this.a.jj("assets/assets/Tree Plantation/Bondhu-2/Offline Apk/Old Apk/TP Bondhu-2(offline).apk")},
 $S:0}
 A.x1.prototype={
 lD(){this.uk()},
@@ -76831,7 +76831,7 @@ s=new A.x1(p,o,A.c([],t.EH),A.ew(r,r,r,t.X,t.xW),new A.id(s),new A.id(s),!1,!1)
 s.tN()
 A.aoJ(q,s,t.Yg)
 s=t.z
-return new A.wV("/login","Softech Limited APK Downloader",A.tq(r,r,"Inter",B.jD,!0),!1,A.c([A.aow(r,r,r,B.mQ,B.mR,B.aq,r,!1,r,!0,r,"/login",!0,new A.a76(),r,r,r,!0,!0,r,r,r,r,s),A.aow(r,r,r,B.mQ,B.mR,B.aq,r,!1,r,!0,r,"/download",!0,new A.a77(),r,r,r,!0,!0,r,r,r,r,s)],t.RT),r)}}
+return new A.wV("/login","Softech Limited APK Portal",A.tq(r,r,"Inter",B.jD,!0),!1,A.c([A.aow(r,r,r,B.mQ,B.mR,B.aq,r,!1,r,!0,r,"/login",!0,new A.a76(),r,r,r,!0,!0,r,r,r,r,s),A.aow(r,r,r,B.mQ,B.mR,B.aq,r,!1,r,!0,r,"/download",!0,new A.a77(),r,r,r,!0,!0,r,r,r,r,s)],t.RT),r)}}
 A.a76.prototype={
 $0(){return new A.rm(null)},
 $S:466}

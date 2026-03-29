@@ -1,7 +1,7 @@
 {
-  "version": "2.3.5",
-  "build_number": 7,
+  "version": "2.3.6",
+  "build_number": 8,
   "download_url": "https://softechlimitedappdownloader.github.io/apk/assets/assets/Tree Plantation/Bondhu-2/Offline Apk/Latest Apk/TP Bondhu-2(offline).apk",
   "force_update": true,
-  "release_notes": "Bug fixes and added multiple mode to capture current location for tree location"
+  "release_notes": "Bug fixes and disabled add button from tree location page"
 }
